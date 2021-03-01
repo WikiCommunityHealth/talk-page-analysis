@@ -1,0 +1,3 @@
+[submodule "wikiconv-sort"]
+	path = wikiconv-sort
+	url = https://github.com/WikiCommunityHealth/wikiconv-sort.git
