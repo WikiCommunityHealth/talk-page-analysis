@@ -1,3 +1,6 @@
 [submodule "wikiconv-sort"]
 	path = wikiconv-sort
 	url = https://github.com/WikiCommunityHealth/wikiconv-sort.git
+[submodule "wikiconv-mongodb"]
+	path = wikiconv-mongodb
+	url = https://github.com/WikiCommunityHealth/wikiconv-mongodb.git
